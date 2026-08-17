@@ -263,7 +263,7 @@ The MongoDB connection string is stored in the `MONGO_URI` environment variable.
 
 ## Deployment
 
-The API is deployed using Vercel.
+Live API: https://30903180103508-event-pulse.vercel.app
 
 ### Environment Variables
 
